@@ -10,6 +10,8 @@ i play **valorant**....
 - not good game
 
 ***
+>[Lab Report 1](https://ganadenjameel.github.io/cse15l-lab-reports/lab-report-1-week-2.md)
+
 
 > [Twitch Streams](https://www.twitch.tv/jaymeal)
 
