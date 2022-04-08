@@ -6,6 +6,9 @@ i play **valorant**....
 3. wastes your *time* (:
 4. stress ***INCREASER***
 
+- find a better hobby
+- not good game
+
 ***
 
 > [Twitch Streams](https://www.twitch.tv/jaymeal)
