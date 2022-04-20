@@ -15,6 +15,6 @@ SHOW OUTPUT OF RUNNING FILE
 <h1>Bug Fix 3: Images</h1>
 
 ![Image](ImageErrorFix.PNG)
-This is the [file](https://github.com/ganadenjameel/markdown-parser/blob/main/test-file2.md) that caused me to modify the code.
+This is the [file](https://github.com/ganadenjameel/markdown-parser/blob/main/test-file4.md) that caused me to modify the code.
 SHOW OUTPUT OF RUNNING FILE
 2-3 SENTENCES OF RELATIONSHIP W/ BUG, SYMPTOM, AND INPUT
