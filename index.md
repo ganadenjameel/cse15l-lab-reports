@@ -12,6 +12,8 @@ i play **valorant**....
 ***
 >[Lab Report 1](https://ganadenjameel.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
+>[Lab Report 2](https://ganadenjameel.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
+
 
 > [Twitch Streams](https://www.twitch.tv/jaymeal)
 
