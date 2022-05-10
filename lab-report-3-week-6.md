@@ -8,7 +8,8 @@
 
 ![Image](SS3.PNG)
 <br> With that same shortcut that I created earlier, I am able to use it when transferring files over to the ieng6 machines. 
-<br> The input follows as "scp [FILE] ```ieng6```"
+<br> The input follows as ```scp [FILE] ieng6```
+
 
 
 <h1>Setup Github Access From ieng6</h1>
@@ -20,11 +21,7 @@
 <br> The private key that was made can be seen when I log into the ieng6 machine and ```cd .ssh``` then ```ls``` to show the one of many keys.
 
 ![Image](SS6.PNG)
-
-Show where the public key you made is stored on Github and in your user account (screenshot).<br>
-Show where the private key you made is stored on your user account (but not its contents) as a screenshot.<br>
-Show running git commands to commit and push a change to Github while logged into your ieng6 account.<br>
-Show a link for the resulting commit.<br>
+<br> On the ieng6 machine, I removed a file in markdown-parser using ```git rm test.txt```, then I committed the change using ```git commit -m "removal"```.
 
 
 
