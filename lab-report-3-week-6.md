@@ -1,6 +1,10 @@
-<h1>Streamlining ssh Configuration</h1>
+<h1>Streamlining SSH Configuration</h1>
 
-![Image]()
+![Image](SS1.PNG)
+
+![Image](SS2.PNG)
+
+![Image](SS3.PNG)
 
 Show your .ssh/config file, and how you edited it (with VScode, another program, etc)<br>
 Show the ssh command logging you into your account using just the alias you chose.<br>
@@ -8,9 +12,13 @@ Show an scp command copying a file to your account using just the alias you chos
 
 
 
-<h1>Setup Github Access from ieng6</h1>
+<h1>Setup Github Access From ieng6</h1>
 
-![Image]()
+![Image](SS4.PNG)
+
+![Image](SS5.PNG)
+
+![Image](SS6.PNG)
 
 Show where the public key you made is stored on Github and in your user account (screenshot).<br>
 Show where the private key you made is stored on your user account (but not its contents) as a screenshot.<br>
@@ -19,7 +27,7 @@ Show a link for the resulting commit.<br>
 
 
 
-<h1>Copy whole directories with scp -r</h1>
+<h1>Copy Whole Directories With scp -r</h1>
 
 ![Image]()
 
