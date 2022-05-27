@@ -5,7 +5,7 @@
 
 ## **Test 1**
 
-### Expected Output: [a.com, a.com(()), example.com] <br>
+### Expected Output: [`google.com, google.com, ucsd.edu] <br>
 
 > My `MarkdownParseTest.java` Code for Snippet 1<br>
 ![Image](L4SS1.PNG)<br>
@@ -25,7 +25,7 @@ I think a small code change could cover a fix for Snippet 1 that deals with inli
 
 ## **Test 2**
 
-### Expected Output: [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule] <br>
+### Expected Output: [a.com, a.com(()), example.com] <br>
 
 > My `MarkdownParseTest.java` Code for Snippet 2<br>
 ![Image](L4SS2.PNG)<br>
@@ -47,7 +47,7 @@ I do not think a small code change could cover a fix for Snippet 2 that deals wi
 
 ## **Test 3**
 
-### Expected Output: [`google.com, google.com, ucsd.edu] <br>
+### Expected Output: [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule] <br>
 
 > My `MarkdownParseTest.java` Code for Snippet 3<br>
 ![Image](L4SS3.PNG)<br>
