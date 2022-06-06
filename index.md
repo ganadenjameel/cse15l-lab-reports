@@ -11,6 +11,8 @@ Jameel's CSE15L Safe Haven
 
 >[Lab Report 4](https://ganadenjameel.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+>[Lab Report 5](https://ganadenjameel.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
 
 VALORANT SPACE
 ========================
